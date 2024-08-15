@@ -1,5 +1,6 @@
 img{
-    text-align: center;
+  image-orientation: flip;
+  
 }
 
 .carousel-widget .flickity-slider .carousel-cell {
@@ -8,4 +9,8 @@ img{
     }
     .carousel-widget .flickity-slider .carousel-cell img {
     max-width: 100%;
+    }
+
+    text{
+        text-align: center;
     }
